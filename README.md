@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Potato disease classification
 
 ## Workflows
@@ -155,3 +156,6 @@ docker push potato1.azurecr.io/disease:latest
 2. Push the Docker image to Container Registry
 3. Launch the Web App Server in Azure 
 4. Pull the Docker image from the container registry to Web App server and run 
+=======
+# PotatoDisease
+>>>>>>> d1e9d577dc85e8fc82b7be28ab5b7397108fabb1

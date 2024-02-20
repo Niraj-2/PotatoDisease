@@ -1,5 +1,5 @@
 #flask act as api between html and cnn model.
-#flask app receives rsponse from html front end, receives image
+#flask app receives response from html front end, receives image
 # and send response in json format. 
 from flask import Flask, request, jsonify, render_template
 import os
